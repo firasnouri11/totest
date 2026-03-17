@@ -1,0 +1,14 @@
+{
+  "share_id": "ge65wok-Firasnouri1-e1bdefe5",
+  "sender": "ge65wok",
+  "recipient": "Firasnouri1",
+  "filename": "first.py",
+  "rights": "rw",
+  "message": "can you check this logic?",
+  "sent_at": "2026-03-17T18:38:52.824269+00:00",
+  "expires_at": "2026-03-17T21:38:52.824269+00:00",
+  "ttl_hours": 3.0,
+  "status": "pending",
+  "response_message": null,
+  "responded_at": null
+}
